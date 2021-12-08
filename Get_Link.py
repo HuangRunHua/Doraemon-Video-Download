@@ -44,15 +44,13 @@ def get_all_links(path, save_file_name):
     
         # 添加集数标题与链接到字典中
         all_episodes[episode_name] = link
-        # 添加链接到列表中
-        links_list.append(link)
+        
+    # 添加链接到列表中
+    for name in all_episodes:
+        links_list.append(all_episodes[name])
 
-    for e in all_episodes:
-        print(all_episodes[e])
-
-    print(len(all_episodes))
     # 保存链接到txt文件里
     text_save(save_file_name, links_list)
 
 # 主程序
-get_all_links('index.php','All_Episodes.txt')
+get_all_links('index.php','2021_All_Episodes.txt')
