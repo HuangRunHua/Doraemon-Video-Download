@@ -1,4 +1,4 @@
-# Doraemon-Video-Download
+# 哆啦A梦番剧下载链接获取
 ![](https://github.com/HuangRunHua/Doraemon-Video-Download/blob/main/cover.png)
 本项目用于哆啦A梦番剧视频下载链接的获取，使用Python实现该功能。
 
@@ -10,7 +10,9 @@
 ```
 def get_all_links(path, save_link_file_name, save_name_link_file_name):
 
+
 - path: `.php`文件所在的位置，mac下为该文件的名称
+
 - save_link_file_name: 保存txt文件的路径，该文件只保存下载地址，并不保存每一集的名字
 ```
 https://cdn3.dora-video.cn/0b2emuaaiaaaa4anekfmqrqvazodarsqabaa.f0.mp4
