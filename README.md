@@ -4,6 +4,7 @@
 
 ## 网页文件获取
 在使用本程序获取视频下载链接之前，需要先获取哆啦A梦番剧视频所在的网页文件，通常为`.php`文件。获取方式可以利用Chrome浏览器。在Chrome浏览器上打开[哆啦A梦新番在线合集](https://www.dora-family.com/index.php?title=Resource:TV&variant=zh)显示并下载网页源代码，将源代码文件保存至`Doraemon Video Download`文件夹下。
+![](https://github.com/HuangRunHua/Doraemon-Video-Download/blob/main/phpfile.png)
 
 ## 程序的使用方式
 在`Get_Link.py`文件的最末尾，修改`get_all_links`函数里的参数名称，该函数三个参数意义分别表示如下：
