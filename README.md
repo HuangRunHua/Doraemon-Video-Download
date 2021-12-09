@@ -7,12 +7,11 @@
 
 ## 程序的使用方式
 在`Get_Link.py`文件的最末尾，修改`get_all_links`函数里的参数名称，该函数三个参数意义分别表示如下：
-```
+```python
 def get_all_links(path, save_link_file_name, save_name_link_file_name):
-
+```
 
 - path: `.php`文件所在的位置，mac下为该文件的名称
-
 - save_link_file_name: 保存txt文件的路径，该文件只保存下载地址，并不保存每一集的名字
 ```
 https://cdn3.dora-video.cn/0b2emuaaiaaaa4anekfmqrqvazodarsqabaa.f0.mp4
