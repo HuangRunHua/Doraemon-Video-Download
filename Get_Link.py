@@ -12,13 +12,15 @@ def text_save(filename, data):
     file.close()
     print("保存文件成功")
 
-def get_all_links(path, save_file_name):
+def get_all_links(path, save_link_file_name, save_name_link_file_name):
     # 用于连接每期集数与每期的名字
     join_str = '_'
     # 存放所有标题与链接的字典
     all_episodes = {}
     # 存放所有链接的列表
     links_list = []
+    # 存放名称与链接的列表
+    episodes_name_lin_list = []
 
     # 打开并读取php文件
     phpFile = open(path, 'r', encoding='utf-8')
@@ -47,10 +49,16 @@ def get_all_links(path, save_file_name):
         
     # 添加链接到列表中
     for name in all_episodes:
+        # 将链接单独保存在一个列表中
         links_list.append(all_episodes[name])
+        # 将标题与链接按空格隔开放在一个列表中
+        current_episode = name + ' ' + all_episodes[name]
+        episodes_name_lin_list.append(current_episode)
 
     # 保存链接到txt文件里
-    text_save(save_file_name, links_list)
+    text_save(save_link_file_name, links_list)
+    # 同时保存标题与链接到txt文件里
+    text_save(save_name_link_file_name, episodes_name_lin_list)
 
 # 主程序
-get_all_links('index.php','2021_All_Episodes.txt')
+get_all_links('index.php','2021_All_Episodes_Links.txt', '2021_All_Episodes.txt')
