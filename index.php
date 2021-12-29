@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>2021年度哆啦A梦新番在线合集 - 机器猫吧大全</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"b91506a808b6f94a0f4e81cf","wgCSPNonce":!1,"wgCanonicalNamespace":"Resource","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":9036,"wgPageName":"Resource:TV","wgTitle":"TV","wgCurRevisionId":24382,"wgRevisionId":24382,"wgArticleId":8081,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"zh","wgPageContentModel":"wikitext","wgRelevantPageName":"Resource:TV","wgRelevantArticleId":8081,"wgUserVariant":"zh","wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlowThreadConfig":{"Avatar":"/extensions/Avatar/avatar.php?user=${username}",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"65f97c4fa3be8d7366bee3b1","wgCSPNonce":!1,"wgCanonicalNamespace":"Resource","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":9036,"wgPageName":"Resource:TV","wgTitle":"TV","wgCurRevisionId":24524,"wgRevisionId":24524,"wgArticleId":8081,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"zh","wgPageContentModel":"wikitext","wgRelevantPageName":"Resource:TV","wgRelevantArticleId":8081,"wgUserVariant":"zh","wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlowThreadConfig":{"Avatar":"/extensions/Avatar/avatar.php?user=${username}",
 "AnonymousAvatar":"/images/4/40/LOGO.png","CantPostNotice":"\u003Cspan class=\"coloredLinks\"\u003E\u003Ca href=\"/Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95\" class=\"text\" title=\"Special:用户登录\"\u003E登录\u003C/a\u003E\u003C/span\u003E来评论"}};RLSTATE={"skins.xenon":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","ext.flowthread"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -44,6 +44,17 @@
 </header><div id="mw-content-text" lang="zh" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="videoContainerWithSideList plateContainer marginHorizentalNegativeHalf marginVerticalNegativeHalf">
 	<div class="videoWrapper plateBlockLike marginHorizontalHalf marginVerticalHalf"><video id="tv" controls="" controlslist="nodownload"></video></div>
 	<div class="videoPageSideList plateBlockLike marginHorizontalHalf marginVerticalHalf scrollContainer"><div class="scrollClip"><dl class="listContainer childFirstBorderNone">
+<dt class="listCell">
+<h3><span id="68612‌月‌25‌日"></span><span class="mw-headline" id="68612.E2.80.8C.E6.9C.88.E2.80.8C25.E2.80.8C.E6.97.A5"><span class="textBold">686</span><span class="textRegular textTertiary floatRight">12&#8204;月&#8204;25&#8204;日</span>
+</span></h3><div class="textComment">幻象师野比~圣诞节奇迹~<br />植物笔</div>
+</dt>
+<dd class="listCell withPadding effective tvsrc" data-src="https&#58;//cdn3.dora-video.cn/0bc3weaegaaadyad5q6ihjqvbmodioyqaqya.f0.mp4">
+<div class="flexContainer alignCenter"><span>织梦</span><span class="textSecondary flexNone">dora-video</span></div>
+</dd>
+<dd class="listCell withPadding effective tvsrc" data-src="https&#58;//api.mlsub.net/?get=686">
+<div class="flexContainer alignCenter"><span>梦蓝</span><span class="textSecondary flexNone">dora-video</span></div>
+</dd>
+
 <dt class="listCell">
 <h3><span id="68512‌月‌18‌日"></span><span class="mw-headline" id="68512.E2.80.8C.E6.9C.88.E2.80.8C18.E2.80.8C.E6.97.A5"><span class="textBold">685</span><span class="textRegular textTertiary floatRight">12&#8204;月&#8204;18&#8204;日</span>
 </span></h3><div class="textComment">胖虎拉面来了！<br />蓄电套装</div>
@@ -740,39 +751,39 @@
 </div><script src="/index.php?title=MediaWiki:Element/videoPage/scripts.js&amp;action=raw&amp;ctype=text/javascript"></script>
 <!-- 
 NewPP limit report
-Cached time: 20211219125803
+Cached time: 20211228102249
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 1.916 seconds
-Real time usage: 5.603 seconds
-Preprocessor visited node count: 10381/1000000
-Post‐expand include size: 233669/2097152 bytes
-Template argument size: 105281/2097152 bytes
+CPU time usage: 1.967 seconds
+Real time usage: 3.569 seconds
+Preprocessor visited node count: 10565/1000000
+Post‐expand include size: 237428/2097152 bytes
+Template argument size: 107035/2097152 bytes
 Highest expansion depth: 18/40
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 497/5000000 bytes
-Lua time usage: 0.260/7 seconds
-Lua virtual size: 8.9 MB/50 MB
+Lua time usage: 0.270/7 seconds
+Lua virtual size: 8.94 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 5475.878      1 Template:Element/videoPage
-100.00% 5475.878      1 -total
- 91.84% 5028.992      1 Template:DISPLAYTITLE
- 91.71% 5021.742      1 Template:NoteTA
-  7.69%  420.909    196 Template:Element/videoPage/listItem
-  6.89%  377.457     50 Template:Get/shortDateInline
-  6.79%  371.841     50 Template:Get/shortDate
-  6.30%  344.749    100 Template:Get/timestamp
-  0.15%    8.333      2 Template:Get/url
-  0.04%    2.118      9 Template:Trim
+100.00% 3457.806      1 Template:Element/videoPage
+100.00% 3457.806      1 -total
+ 86.88% 3004.307      1 Template:DISPLAYTITLE
+ 86.82% 3002.161      1 Template:NoteTA
+ 12.58%  434.971    199 Template:Element/videoPage/listItem
+ 11.34%  392.043     51 Template:Get/shortDateInline
+ 11.18%  386.490     51 Template:Get/shortDate
+ 10.40%  359.488    102 Template:Get/timestamp
+  0.23%    7.890      2 Template:Get/url
+  0.06%    1.958      9 Template:Trim
 -->
 
-<!-- Saved in parser cache with key doraemon-dora_:pcache:idhash:8081-0!canonical!zh and timestamp 20211219125758 and revision id 24382
+<!-- Saved in parser cache with key doraemon-dora_:pcache:idhash:8081-0!canonical!zh and timestamp 20211228102245 and revision id 24524
  -->
-</div></div><div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div></div><div class="printfooter">取自“<a dir="ltr" href="https://www.dora-family.com/index.php?title=Resource:TV&amp;oldid=24382">https://www.dora-family.com/index.php?title=Resource:TV&amp;oldid=24382</a>”</div></div></main><footer id="footer" class="footer"><div class="dynaCenterUsingTable"><p><a class="actionWindow semivisible" data-pagetitle="DF:关于" href="https://www.dora-family.com/%E6%9C%BA%E5%99%A8%E7%8C%AB%E5%90%A7%E5%A4%A7%E5%85%A8:%E5%85%B3%E4%BA%8E">关于</a>・<a class="actionWindow semivisible" data-pagetitle="DF:联系方式" href="https://www.dora-family.com/%E6%9C%BA%E5%99%A8%E7%8C%AB%E5%90%A7%E5%A4%A7%E5%85%A8:%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F">联系方式</a>・<a class="actionWindow semivisible" data-pagetitle="DF:捐助" href="https://www.dora-family.com/%E6%9C%BA%E5%99%A8%E7%8C%AB%E5%90%A7%E5%A4%A7%E5%85%A8:%E6%8D%90%E5%8A%A9">捐助</a>・<a class="semivisible" href="https://www.dora-family.com/Help:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C">格式手册</a></p>
+</div></div><div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div></div><div class="printfooter">取自“<a dir="ltr" href="https://www.dora-family.com/index.php?title=Resource:TV&amp;oldid=24524">https://www.dora-family.com/index.php?title=Resource:TV&amp;oldid=24524</a>”</div></div></main><footer id="footer" class="footer"><div class="dynaCenterUsingTable"><p><a class="actionWindow semivisible" data-pagetitle="DF:关于" href="https://www.dora-family.com/%E6%9C%BA%E5%99%A8%E7%8C%AB%E5%90%A7%E5%A4%A7%E5%85%A8:%E5%85%B3%E4%BA%8E">关于</a>・<a class="actionWindow semivisible" data-pagetitle="DF:联系方式" href="https://www.dora-family.com/%E6%9C%BA%E5%99%A8%E7%8C%AB%E5%90%A7%E5%A4%A7%E5%85%A8:%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F">联系方式</a>・<a class="actionWindow semivisible" data-pagetitle="DF:捐助" href="https://www.dora-family.com/%E6%9C%BA%E5%99%A8%E7%8C%AB%E5%90%A7%E5%A4%A7%E5%85%A8:%E6%8D%90%E5%8A%A9">捐助</a>・<a class="semivisible" href="https://www.dora-family.com/Help:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C">格式手册</a></p>
 	<p><span style="display: inline-block">机器猫吧大全是机器猫吧自建的非营利网站，由 <a href="https://www.mediawiki.org" target="_blank" class="semivisible" rel="noreferrer noopener">MediaWiki</a> 驱动。</span><a href="https://beian.miit.gov.cn" class="semivisible" target="_blank" style="white-space:nowrap" rel="noreferrer noopener">苏ICP备19028682号-1</a></p>
-	<p> <span style="display: inline-block">除特别标注，所有文字内容版权由文章作者和机器猫吧大全所有。</span><span style="display: inline-block">请勿于未经授权的情况下转载本站文章。</span></p></div></footer><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.916","walltime":"5.603","ppvisitednodes":{"value":10381,"limit":1000000},"postexpandincludesize":{"value":233669,"limit":2097152},"templateargumentsize":{"value":105281,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":497,"limit":5000000},"timingprofile":["100.00% 5475.878      1 Template:Element/videoPage","100.00% 5475.878      1 -total"," 91.84% 5028.992      1 Template:DISPLAYTITLE"," 91.71% 5021.742      1 Template:NoteTA","  7.69%  420.909    196 Template:Element/videoPage/listItem","  6.89%  377.457     50 Template:Get/shortDateInline","  6.79%  371.841     50 Template:Get/shortDate","  6.30%  344.749    100 Template:Get/timestamp","  0.15%    8.333      2 Template:Get/url","  0.04%    2.118      9 Template:Trim"]},"scribunto":{"limitreport-timeusage":{"value":"0.260","limit":"7"},"limitreport-virtmemusage":{"value":9330688,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20211219125803","ttl":86400,"transientcontent":false}}});});</script><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":7228});});</script></body></html>
+	<p> <span style="display: inline-block">除特别标注，所有文字内容版权由文章作者和机器猫吧大全所有。</span><span style="display: inline-block">请勿于未经授权的情况下转载本站文章。</span></p></div></footer><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.967","walltime":"3.569","ppvisitednodes":{"value":10565,"limit":1000000},"postexpandincludesize":{"value":237428,"limit":2097152},"templateargumentsize":{"value":107035,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":497,"limit":5000000},"timingprofile":["100.00% 3457.806      1 Template:Element/videoPage","100.00% 3457.806      1 -total"," 86.88% 3004.307      1 Template:DISPLAYTITLE"," 86.82% 3002.161      1 Template:NoteTA"," 12.58%  434.971    199 Template:Element/videoPage/listItem"," 11.34%  392.043     51 Template:Get/shortDateInline"," 11.18%  386.490     51 Template:Get/shortDate"," 10.40%  359.488    102 Template:Get/timestamp","  0.23%    7.890      2 Template:Get/url","  0.06%    1.958      9 Template:Trim"]},"scribunto":{"limitreport-timeusage":{"value":"0.270","limit":"7"},"limitreport-virtmemusage":{"value":9375744,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20211228102249","ttl":86400,"transientcontent":false}}});});</script><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":2937});});</script></body></html>
